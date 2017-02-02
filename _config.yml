@@ -3,8 +3,8 @@ title: Varianus
 email: marcocas@gmail.com
 description: >
   My Personal HomePage
-baseurl: ""
-url: "https://varianus.github.io/"
+baseurl: "/"
+url: "https://varianus.github.io"
 twitter_username: Varianus
 github_username:  Varianus
 # Build Settings
