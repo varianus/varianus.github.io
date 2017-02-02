@@ -1,0 +1,15 @@
+# Site Settings
+title: Varianus
+email: marcocas@gmail.com
+description: >
+  My Personal HomePage
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: Varianus
+github_username:  Varianus
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
