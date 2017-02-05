@@ -61,6 +61,9 @@ kramdown:
 # Build settings
 collections: 
   - projectinfo            # all your pages can be put inside pages (except articles)
+collections:
+  projectinfo:
+    output: true  
 include:  
   - _pages                  # all your pages can be put inside pages (except articles)
 exclude:
