@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Project
-permalink: projects/ovoplayer/
+project: ovoplayer
+permalink: /projects/ovoplayer/
 subtitle: OvoPlayer
-project: OvoPlayer
 excerpt: Free multiplatform music player
+icon: /assets/img/ovoplayer.png
 ---
 
 ## to be done
