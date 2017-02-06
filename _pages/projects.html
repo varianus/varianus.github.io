@@ -12,7 +12,8 @@ permalink: /projects/
 
 <div class="projects">
 <div class="grid no-gutters">
- {% for project in site.projectinfo %}  
+ {% assign sorted = (site.projectinfo | sort: 'project' | reverse)  %}  
+ {% for project in sorted %}  
  <div class="unit one-third">
       <div class="project">
         <h4 class="project-title"><a href="{{project.project}}">

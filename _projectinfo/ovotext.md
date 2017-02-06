@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Project
-permalink: projects/ovotext/
-subtitle: ovotext
-project: OvoText
+project: ovotext
+permalink: /projects/ovotext/
+subtitle: OvoText
+icon: /assets/img/ovotext.png
 excerpt: Simple but powerful text editor
 ---
 
