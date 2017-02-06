@@ -11,17 +11,23 @@ permalink: /projects/
 </p>
 
 <div class="projects">
+{% assign sorted = (site.projectinfo | sort: 'project')  %}  
+{% for project in sorted %}  
+{% assign loopindex = forloop.index | modulo: 3 %}  
+{% if loopindex == 1 %}
 <div class="grid no-gutters">
- {% assign sorted = (site.projectinfo | sort: 'project' | reverse)  %}  
- {% for project in sorted %}  
- <div class="unit one-third">
+{% endif %}    
+   <div class="unit one-third">
       <div class="project">
         <h4 class="project-title"><a href="{{project.project}}">
          {% if project.icon %} <img src={{project.icon}} width="32"> {% endif %}
            {{project.subtitle}}</a></h4>
         <p>{{project.excerpt}}</p>
       </div>
-    </div>
- {% endfor %}  
+   </div>
+{% if loopindex == 0 or forloop.last %}
  </div>
+{% endif %}    
+{% endfor %}  
+ 
 </div>
