@@ -19,9 +19,10 @@ permalink: /projects/
 {% endif %}    
    <div class="unit one-third">
       <div class="project">
-        <h4 class="project-title"><a href="{{project.project}}">
+        <h4 class="project-title"><a href="{{project.URL}}">
          {% if project.icon %} <img src={{project.icon}} width="32"> {% endif %}
-           {{project.subtitle}}</a></h4>
+           {{project.subtitle}}</a>
+       </h4>
         <p>{{project.excerpt}}</p>
       </div>
    </div>
