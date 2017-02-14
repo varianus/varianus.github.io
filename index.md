@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! I'm [Marco Caselli](about/), a software developer.
 
-  I come from Italy.
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+  Hi! I'm **Marco Caselli**, a software developer.
+  
+  This small site is about [me](about/) and  some [open source project](projects/) I've written.
+  
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
 </div>

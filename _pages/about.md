@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: Marco Caselli. A passionate developer.
-desc: About me.
+desc: Something about me.
 permalink: /about/
 ---
 
@@ -10,6 +10,8 @@ permalink: /about/
 
 <div class="lead lead-about">Marco Caselli. 
 </div>
+
+Hi all! I came from Italy and I work as a developer for an insurance company.
 
 {::nomarkdown} 
 <figure class="site-profile">
