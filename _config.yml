@@ -3,9 +3,7 @@
 # Site settings
 title: Varianus               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Marco Caselli homepage.
 
 url: http://varianus.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -17,9 +15,6 @@ author: Varianus
 twitter_username: varianus
 github_username: varianus
 github_source: varianus.github.io
-
-# Put your ga tracking code below
-google_analytics: 'UA-72189324-1'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
