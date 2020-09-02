@@ -21,9 +21,10 @@ Hi all! I came from Italy and I work as a developer for an insurance company.
 ---
 ## Skills
 
+From 1993 to 2005 I've mostly developed interactive and batch COBOL programs under MVS CICS and AS/400 hosts.
+
 In 1999 I've started to develop some tools and small applications on Delphi.
 
-From 1993 to 2005 I've mostly developed interactive and batch COBOL programs under MVS CICS and AS/400 hosts.
 From 2005 to now I develop almost exclusively on Delphi for a big insurance company.
 
 ## The nickname
